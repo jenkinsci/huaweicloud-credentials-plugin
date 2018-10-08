@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+
+<div>
+ Credentials for Huawei Cloud.
+</div>
